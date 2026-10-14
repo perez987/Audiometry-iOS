@@ -1,0 +1,46 @@
+# ====================================================================
+# Xcode / iOS / iPadOS .gitignore
+# ====================================================================
+
+## Build generated files
+build/
+DerivedData/
+
+## User-specific Xcode settings (window layouts, open files, custom schemes)
+xcuserdata/
+*.xcuserstate
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+## Xcode Source Control and Blueprints
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+## App Store / Distribution artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ====================================================================
+# Security & Configs
+# ====================================================================
+# Ignore configuration files containing private API keys or secrets
+*.xcconfig
+
+# ====================================================================
+# macOS System Files
+# ====================================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
