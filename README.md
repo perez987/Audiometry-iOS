@@ -1,4 +1,4 @@
-# Audiometry
+# Audiometry for iOS and iPadOS
 
 ![Platform](https://img.shields.io/badge/iOS%20and%20iPadOS-18%2B-orange.svg)
 ![Swift](https://img.shields.io/badge/Swift-6.0-9494ff.svg)
