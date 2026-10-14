@@ -8,6 +8,10 @@
 
 Audiometry is a SwiftUI application for capturing patient hearing test data, calculating hearing-loss results, and printing patient reports on iPhone and iPad. Patient data is stored locally as JSON through `PatientDataStore`.
 
+|  | 
+|:----:|
+| ![iPad](Images/iPad-screen.png) |  
+
 ## Requirements
 
 - Xcode 26 or Xcode 27
