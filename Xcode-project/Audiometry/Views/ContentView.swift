@@ -103,7 +103,7 @@ struct ContentView: View {
                             VStack(alignment: .leading, spacing: 12) {
                                 HStack {
                                     Text("name".localized)
-                                        .frame(width: 72, alignment: .leading)
+                                        .frame(width: 124, alignment: .leading)
                                     TextField("enter_patient_name".localized, text: $patientName)
                                         .textFieldStyle(RoundedBorderTextFieldStyle())
                                         .frame(maxWidth: 380)
@@ -115,7 +115,7 @@ struct ContentView: View {
 
                                 HStack {
                                     Text("age".localized)
-                                        .frame(width: 72, alignment: .leading)
+                                        .frame(width: 124, alignment: .leading)
                                     TextField("enter_age".localized, text: $patientAge)
                                         .textFieldStyle(RoundedBorderTextFieldStyle())
                                         .frame(width: 140)
@@ -128,7 +128,7 @@ struct ContentView: View {
 
                                 HStack {
                                     Text("job".localized)
-                                        .frame(width: 72, alignment: .leading)
+                                        .frame(width: 124, alignment: .leading)
                                     TextField("enter_job_occupation".localized, text: $patientJob)
                                         .textFieldStyle(RoundedBorderTextFieldStyle())
                                         .frame(maxWidth: 380)

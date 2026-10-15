@@ -11,7 +11,7 @@
 "patient_information" = "Información del Paciente";
 "name" = "Nombre:";
 "age" = "Edad:";
-"job" = "Trabajo:";
+"job" = "Profesión:";
 "enter_patient_name" = "Introduzca el Nombre";
 "enter_age" = "Introduzca la edad";
 "enter_job_occupation" = "Introduzca el trabajo o la ocupación";

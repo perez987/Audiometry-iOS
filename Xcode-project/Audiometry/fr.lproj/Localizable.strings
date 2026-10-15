@@ -4,14 +4,14 @@
 "app_title" = "Audiométrie";
 "patient_report" = "Rapport du patient";
 "language" = "Langue";
-"storage_mode:" = "Mode de stockage :";
-"current: " = "Actuel : ";
+"storage_mode:" = "Mode de stockage:";
+"current: " = "Actuel: ";
 
 /* Informations sur le patient */
 "patient_information" = "Informations sur le patient";
-"name" = "Nom :";
-"age" = "Âge :";
-"job" = "Profession :";
+"name" = "Nom:";
+"age" = "Âge:";
+"job" = "Profession:";
 "enter_patient_name" = "Saisir le nom du patient";
 "enter_age" = "Saisir l’âge";
 "enter_job_occupation" = "Saisir le métier/la profession";
@@ -27,23 +27,23 @@
 
 /* Résultats de l’évaluation */
 "assessment_results" = "Résultats de l’évaluation";
-"hearing_loss_assessment" = "Évaluation de la perte auditive :";
+"hearing_loss_assessment" = "Évaluation de la perte auditive:";
 "bilateral" = "Bilatérale";
 
 /* Indice SAL */
-"sal_index" = "Indice SAL (perte moyenne de la parole) :";
-"sal_description" = "Indice SAL : moyenne des fréquences 500, 1000 et 2000 Hz (fréquences de la parole).";
+"sal_index" = "Indice SAL (perte moyenne de la parole):";
+"sal_description" = "Indice SAL: moyenne des fréquences 500, 1000 et 2000 Hz (fréquences de la parole).";
 
 /* Indice ELI */
-"eli_index" = "Indice ELI (indice de perte précoce) :";
-"eli_description" = "Indice ELI : moyenne de toutes les fréquences testées, pondérée selon l’impact de la perte auditive.";
+"eli_index" = "Indice ELI (indice de perte précoce):";
+"eli_description" = "Indice ELI: moyenne de toutes les fréquences testées, pondérée selon l’impact de la perte auditive.";
 
 /* Résumé des paramètres */
 "parameters_summary" = "Résumé des paramètres";
-"patient_label" = "Patient :";
+"patient_label" = "Patient:";
 "age-label" = "Âge:";
-"occupation_label" = "Profession :";
-"test_frequencies" = "Fréquences : 500, 1000, 2000, 4000, 8000 Hz.";
+"occupation_label" = "Profession:";
+"test_frequencies" = "Fréquences: 500, 1000, 2000, 4000, 8000 Hz.";
 "results_measured" = "Les résultats sont mesurés en dB HL (niveau auditif).";
 
 /* Classifications de la perte auditive */
