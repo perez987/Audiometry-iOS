@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/iOS%20and%20iPadOS-18%2B-orange.svg)
 ![Swift](https://img.shields.io/badge/Swift-6.0-9494ff.svg)
-![Xcode](https://img.shields.io/badge/Xcode-26%20or%2027-lavender.svg)
+![Xcode](https://img.shields.io/badge/Xcode-26+-lavender.svg)
 
 ## SwiftUI audiometry app for iPhone and iPad
 
@@ -14,7 +14,7 @@ Audiometry is a SwiftUI application for capturing patient hearing test data, cal
 
 ## Requirements
 
-- Xcode 26 or Xcode 27
+- Xcode 26 or 27
 - Swift 6
 - iOS 18 or later
 - iPhone or iPad device or simulator
